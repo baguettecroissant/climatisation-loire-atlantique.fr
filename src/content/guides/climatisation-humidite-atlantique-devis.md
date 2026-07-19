@@ -22,7 +22,7 @@ Les climatiseurs Inverter modernes ne se contentent pas d'abaisser la températu
 Le **mode "Dry"** (déshumidification active) permet de :
 1.  **Réduire l'hygrométrie** pour la stabiliser entre 45% et 55% (le seuil de confort optimal).
 2.  **Diminuer la température ressentie de 3°C à 4°C** sans pour autant refroidir brutalement la pièce, limitant ainsi la consommation électrique.
-3.  **Éviter le développement de moisissures** et d'acariens, favorisés par l'air humide salin, pour préserver la structure de votre maison nantaise.
+3.  **Éviter le développement de moisissures** et d'acariens, favorisés par l'air humide salin, pour préserver la structure de votre maison nantaise. N'hésitez pas à comparer les technologies d'intégration dans notre [comparatif split vs gainable](/guides/split-gainable-maison-nantaise/).
 
 ## L'importance d'une installation adaptée face à l'humidité côtière
 

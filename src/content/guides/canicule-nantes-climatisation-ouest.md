@@ -23,7 +23,7 @@ Une fois que la chaleur a traversé la toiture ou les murs en pierre (inertie th
 
 ## La PAC réversible : une réponse adaptée et éco-responsable
 
-S'équiper d'une climatisation réversible Inverter A+++ permet de réguler avec précision la température de vos pièces tout en déshumidifiant l'air ambiant. 
+S'équiper d'une [climatisation réversible Inverter](/guides/pac-air-air-reversible-loire-atlantique/) permet de réguler avec précision la température de vos pièces tout en déshumidifiant l'air ambiant. 
 
 Grâce à son excellent rendement thermique, la consommation d'électricité nécessaire pour rafraîchir une pièce en été est compensée par les économies massives réalisées sur le chauffage pendant la saison hivernale. C'est le choix d'un équipement moderne et respectueux de la transition écologique.
 

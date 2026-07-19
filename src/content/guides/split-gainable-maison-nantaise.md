@@ -37,4 +37,4 @@ Le système gainable est le choix privilégié pour les rénovations de standing
 
 Pour une chambre seule ou un budget serré, le **split mural** reste la solution idéale. En revanche, si vous rénovez entièrement un mas ou une maison de maître en Loire-Atlantique et souhaitez préserver le cachet historique des pièces de vie (hauteur sous plafond, pierres apparentes), la **climatisation gainable** représente le choix esthétique et technique de référence.
 
-Faites appel à un technicien certifié RGE Qualipac pour réaliser une étude thermique sur site et valider la faisabilité technique de votre projet.
+Faites appel à un [technicien certifié RGE Qualipac](/guides/installateur-clim-rge-qualipac-loire-atlantique/) pour réaliser une étude thermique sur site et valider la faisabilité technique de votre projet.

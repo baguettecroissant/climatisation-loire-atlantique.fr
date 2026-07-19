@@ -19,7 +19,7 @@ Dans les communes de Loire-Atlantique caractérisées par des hivers relativemen
 
 En été, le cycle thermodynamique s'inverse. L'unité intérieure capte la chaleur présente dans vos pièces de vie pour la rejeter à l'extérieur. 
 
-En Loire-Atlantique, les périodes estivales s'accompagnent fréquemment d'une lourdeur atmosphérique due à l'humidité de l'estuaire ou du littoral. Les climatiseurs réversibles modernes intègrent un mode déshumidification performant qui extrait l'excès d'eau de l'air ambiant sans nécessairement refroidir excessivement les pièces. Cela permet de retrouver immédiatement une sensation de fraîcheur naturelle et un air sain.
+En Loire-Atlantique, les périodes estivales s'accompagnent fréquemment d'une lourdeur atmosphérique due à l'humidité de l'estuaire ou du littoral. Nous détaillons ce phénomène dans notre [dossier sur la climatisation et l'humidité](/guides/climatisation-humidite-atlantique-devis/). Les climatiseurs réversibles modernes intègrent un mode déshumidification performant qui extrait l'excès d'eau de l'air ambiant sans nécessairement refroidir excessivement les pièces. Cela permet de retrouver immédiatement une sensation de fraîcheur naturelle et un air sain.
 
 ## Les avantages écologiques de la PAC air-air réversible en 2026
 

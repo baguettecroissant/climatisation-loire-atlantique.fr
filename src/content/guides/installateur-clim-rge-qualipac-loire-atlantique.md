@@ -14,7 +14,7 @@ Le label **RGE (Reconnu Garant de l'Environnement) Qualipac** est une qualificat
 Cette certification atteste que les techniciens de l'entreprise :
 1.  Disposent des compétences théoriques et pratiques nécessaires pour concevoir et installer des PAC conformes aux normes techniques actuelles.
 2.  Hold the necessary administrative and insurance policies, notably the **garantie décennale** couvrant les travaux structurels.
-3.  Ont suivi une formation continue rigoureuse sur les technologies de régulation thermique et les économies d'énergie.
+3.  Ont suivi une formation continue rigoureuse sur les technologies de régulation thermique et les économies d'énergie. N'hésitez pas à consulter notre [grille tarifaire indicative](/guides/prix-climatisation-loire-atlantique-2026/) pour estimer vos devis.
 
 ## Pourquoi exiger un installateur RGE Qualipac dans le 44 ?
 

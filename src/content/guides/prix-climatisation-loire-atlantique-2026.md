@@ -30,7 +30,7 @@ Plusieurs éléments influencent le budget global de votre installation :
 
 ## Les aides financières disponibles en 2026
 
-Bien que la pompe à chaleur air-air (climatisation réversible) ne soit pas éligible à MaPrimeRénov' pour sa partie climatisation seule, vous pouvez obtenir :
+Bien que la pompe à chaleur air-air (climatisation réversible) ne soit pas éligible à MaPrimeRénov' pour sa partie climatisation seule, vous pouvez consulter notre [guide sur les aides financières 2026](/guides/aides-financieres-climatisation-2026/) et obtenir :
 *   La **prime CEE** (Certificats d’Économies d’Énergie) versée par les fournisseurs d'énergie.
 *   Une **TVA réduite** sur les travaux d’amélioration énergétique.
 *   Des aides locales potentielles selon votre commune ou la métropole nantaise dans le cadre des plans climat.

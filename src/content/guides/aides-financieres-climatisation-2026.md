@@ -16,7 +16,7 @@ La prime CEE est versée par les fournisseurs d'énergie (EDF, Engie, TotalEnerg
 *   L’équipement doit afficher une efficacité énergétique saisonnière (SCOP) supérieure ou égale à **3.9**.
 *   Les travaux doivent être obligatoirement réalisés par un professionnel certifié **RGE (Reconnu Garant de l'Environnement) Qualipac**.
 
-Le montant de la prime varie selon la surface habitable équipée et le niveau de ressources du foyer, oscillant généralement entre 150 € et 900 €.
+Le montant de la prime varie selon la surface habitable équipée et le niveau de ressources du foyer, oscillant généralement entre 150 € et 900 €. Retrouvez notre [estimation des prix de climatisation](/guides/prix-climatisation-loire-atlantique-2026/) pour affiner votre budget.
 
 ## 2. La TVA à Taux Réduit
 

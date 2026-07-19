@@ -11,7 +11,7 @@ Installer une climatisation réversible de standing dans votre habitation du 44 
 
 Lorsqu’une climatisation fonctionne en mode rafraîchissement ou déshumidification (Dry), l'air chaud et humide passe sur l'évaporateur froid de l'unité intérieure. L'humidité se condense et ruisselle dans le bac à condensats. 
 
-Dans un département humide comme la Loire-Atlantique, cette humidité résiduelle au cœur de l'appareil, combinée aux poussières et pollens en suspension, crée un environnement idéal pour le développement de :
+Dans un département humide comme la Loire-Atlantique, cette humidité résiduelle au cœur de l'appareil, combinée aux poussières et pollens en suspension, crée un environnement idéal pour le développement de moisissures. Nous expliquons comment ce climat influence l'hygrométrie de votre pièce dans notre [dossier sur la climatisation et l'humidité](/guides/climatisation-humidite-atlantique-devis/). Cela peut engendrer :
 *   **Moisissures et champignons** sur la turbine de soufflage et dans le bac à condensats.
 *   **Mauvaises odeurs** (odeur de renfermé ou de vinaigre lors de la mise en marche).
 *   **Allergies et problèmes respiratoires** (propagation de spores de moisissures dans l'air ambiant).
