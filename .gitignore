@@ -22,3 +22,9 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# local npm cache
+.npm-cache/
+
+# wrangler cache
+.wrangler/
