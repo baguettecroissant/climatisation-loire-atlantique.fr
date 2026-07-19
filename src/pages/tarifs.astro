@@ -1,0 +1,108 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+
+const title = "Tarif Climatisation Loire-Atlantique (44) : Prix Matériel & Pose 2026";
+const description = "Retrouvez les tarifs détaillés pour l'installation d'une climatisation réversible ou d'un gainable dans le 44. Prix du matériel, coût de pose, aides.";
+
+const breadcrumbItems = [
+  { label: "Accueil", url: "/" },
+  { label: "Tarifs Installation Climatisation" }
+];
+---
+
+<Layout title={title} description={description} activeTab="tarifs">
+  <Breadcrumb items={breadcrumbItems} />
+
+  <section style="padding: 50px 0 80px; background: white;">
+    <div class="container" style="max-width: 900px;">
+      <div style="text-align: center; margin-bottom: 50px;">
+        <span class="badge-pill" style="margin-bottom: 15px; background:var(--secondary); color:white; border:none;">💰 Transparence des Tarifs</span>
+        <h1 style="font-family: var(--font-heading); font-size: 36px; font-weight: 750; color: var(--primary); margin-bottom: 15px;">
+          Prix d'une Climatisation Réversible en Loire-Atlantique (44)
+        </h1>
+        <p style="font-size: 18px; color: var(--text-muted); line-height: 1.6;">
+          Découvrez notre grille de tarifs indicatifs 2026 pour l'achat et la pose de climatisation réversible, pompe à chaleur air-air, gainable, ainsi que pour les prestations d'entretien en Loire-Atlantique.
+        </p>
+      </div>
+
+      <!-- Pricing Table -->
+      <div style="background:var(--primary-light); border:2px solid var(--border-color); border-radius:var(--radius-md); overflow:hidden; margin-bottom:40px; box-shadow:var(--shadow-sm);">
+        <table style="width:100%; border-collapse:collapse; text-align:left; font-size:16px;">
+          <thead>
+            <tr style="background:var(--primary); color:white;">
+              <th style="padding:15px; color:white; font-weight:700;">Type de matériel</th>
+              <th style="padding:15px; color:white; font-weight:700;">Description de l'équipement</th>
+              <th style="padding:15px; color:white; font-weight:700;">Prix TTC Posé</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid var(--border-color); background:white;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Split mural mono</td>
+              <td style="padding:15px; color:var(--text-muted);">2.5-3.5 kW, Inverter A+++, wifi, 19 dB</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">1 300 – 2 500€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:#f8fafc;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Bi-split</td>
+              <td style="padding:15px; color:var(--text-muted);">2 unités intérieures, 1 groupe ext.</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">2 500 – 4 200€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:white;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Tri-split</td>
+              <td style="padding:15px; color:var(--text-muted);">3 unités intérieures, régulation fine</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">3 500 – 6 000€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:#f8fafc;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Quadri-split</td>
+              <td style="padding:15px; color:var(--text-muted);">4 unités, maison complète</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">4 500 – 7 500€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:white;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Gainable</td>
+              <td style="padding:15px; color:var(--text-muted);">Faux-plafond invisible, régulation multizone Airzone</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">5 000 – 11 000€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:#f8fafc;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">PAC air-air réversible</td>
+              <td style="padding:15px; color:var(--text-muted);">Chaud + froid, COP 5 / SCOP A+++</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">3 200 – 8 500€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:white;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Cassette plafond</td>
+              <td style="padding:15px; color:var(--text-muted);">360° diffusion, commerce ou salon cathédrale</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">2 200 – 4 000€</td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background:#f8fafc;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Entretien annuel</td>
+              <td style="padding:15px; color:var(--text-muted);">Filtres + fluide + désinfection anti-moisissures</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">100 – 200€/an</td>
+            </tr>
+            <tr style="background:white;">
+              <td style="padding:15px; font-weight:bold; color:var(--primary);">Mise aux normes R32</td>
+              <td style="padding:15px; color:var(--text-muted);">Fluide écologique basse empreinte, mise en conformité réglementaire</td>
+              <td style="padding:15px; font-weight:bold; color:var(--secondary); font-family:var(--font-mono);">150 – 350€</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div style="background:white; border:2px solid var(--border-color); padding:30px; border-radius:var(--radius-md); margin-bottom:40px;">
+        <h3 style="color:var(--primary); margin-bottom:12px; font-size:20px; font-weight:700;">Quels facteurs influencent le prix final en Loire-Atlantique (44) ?</h3>
+        <p style="font-size:15px; color:var(--text-muted); line-height:1.6; margin-bottom:15px;">
+          Le coût total de votre projet de climatisation réversible dans la Loire-Atlantique dépend principalement de :
+        </p>
+        <ul style="margin-left:20px; display:flex; flex-direction:column; gap:8px; font-size:15px; color:var(--text-muted);">
+          <li>Le type de système et le choix des finitions (split mural classique ou intégration gainable invisible sous les combles d'une maison nantaise).</li>
+          <li>La puissance requise (calculée selon le volume des pièces, l'isolation thermique, l'orientation et les canicules nouvelles record de l'Ouest).</li>
+          <li>La protection anti-corrosion (indispensable sur le littoral à La Baule, Pornic ou Saint-Nazaire pour préserver le groupe extérieur de l'air salin).</li>
+          <li>Les contraintes d'urbanisme ou de syndic (démarches Bâtiments de France ABF à Nantes centre historique ou près du château).</li>
+          <li>Le choix de la marque (Daikin, Mitsubishi Electric, Toshiba, Panasonic).</li>
+        </ul>
+      </div>
+
+      <div style="text-align:center;">
+        <a href="/devis/" class="btn-primary">Obtenir une estimation sur mesure</a>
+      </div>
+    </div>
+  </section>
+</Layout>

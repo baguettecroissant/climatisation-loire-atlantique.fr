@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Breadcrumb from '../../components/Breadcrumb.astro';
+
+const title = "Guides Pratiques Climatisation & PAC — Loire-Atlantique (44)";
+const description = "Retrouvez tous nos guides, conseils d'experts et articles sur le prix, les aides, l'installation et l'entretien de votre climatisation réversible en Loire-Atlantique.";
+
+const breadcrumbItems = [
+  { label: "Guides Pratiques" }
+];
+
+const guides = await getCollection('guides');
+---
+
+<Layout title={title} description={description} activeTab="aides">
+  <Breadcrumb items={breadcrumbItems} />
+
+  <section style="padding: 50px 0 80px; background: white;">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+        <span class="badge-pill" style="margin-bottom: 15px; background:var(--secondary); color:white; border:none;">💡 Conseils d'experts 44</span>
+        <h1 style="font-family: var(--font-heading); font-size: 36px; font-weight: 750; color: var(--primary); margin-bottom: 15px;">
+          Nos Guides & Dossiers Climatisation
+        </h1>
+        <p style="font-size: 18px; color: var(--text-muted); line-height: 1.6;">
+          Retrouvez nos dossiers d'experts pour tout comprendre sur la climatisation réversible (PAC air-air), les aides financières en 2026 et les spécificités de pose en Loire-Atlantique.
+        </p>
+      </div>
+
+      <div class="grid-3">
+        {guides.map((guide) => (
+          <div class="card" style="display: flex; flex-direction: column; justify-content: space-between; height: 100%; padding: 0; overflow: hidden;">
+            <div>
+              {guide.data.heroImage && (
+                <img src={guide.data.heroImage} alt={guide.data.title} style="width: 100%; height: 180px; object-fit: cover; border-bottom: 1px solid var(--border-color);" />
+              )}
+              <div style="padding: 20px 20px 0;">
+                <span style="font-size: 12px; color: var(--text-muted); font-family: var(--font-mono); margin-bottom: 8px; display: block;">
+                  🗓️ Publié le {new Date(guide.data.pubDate).toLocaleDateString('fr-FR')}
+                </span>
+                <h3 style="font-size: 20px; color: var(--primary); margin-bottom: 12px; font-weight: 800;">
+                  <a href={`/guides/${guide.id}/`} style="text-decoration: none; color: inherit;">
+                    {guide.data.title}
+                  </a>
+                </h3>
+                <p style="font-size: 15px; color: var(--text-muted); line-height: 1.5; margin-bottom: 20px;">
+                  {guide.data.description}
+                </p>
+              </div>
+            </div>
+            <div style="padding: 0 20px 20px;">
+              <a href={`/guides/${guide.id}/`} class="btn-secondary" style="width: 100%; text-decoration: none;">
+                Lire l'article &rarr;
+              </a>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
